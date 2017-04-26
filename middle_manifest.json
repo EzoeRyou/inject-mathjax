@@ -1,0 +1,15 @@
+],
+            "js": ["script.js"]
+      }
+    ],
+
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": true
+    },
+
+
+    "permissions": [
+        "webRequest",
+        "webRequestBlocking",
+

@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "name": "Inject MathJax",
+    "version": "1.0",
+
+    "description": "A simple browser extension which inject MathJax to whitelisted URLs.",
+    
+    "content_scripts": [
+        {
+            "matches": [
+ 
